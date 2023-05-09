@@ -382,7 +382,9 @@ img {
   cursor: pointer;
   margin-left: auto;
 }
-
+.subbut {
+  text-align: center;
+}
 /* ===== FOOTER =====*/
 .footer {
   background-color: var(--second-color);
