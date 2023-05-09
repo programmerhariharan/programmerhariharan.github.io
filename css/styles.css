@@ -381,6 +381,7 @@ img {
   font-size: var(--normal-font-size);
   cursor: pointer;
   margin-left: auto;
+  text-align: center;
 }
 .subbut {
   text-align: center;
@@ -462,7 +463,8 @@ img {
   }
   .contact__container {
     justify-items: center;
-  }
+    text-align: center
+}
 }
 
 @media screen and (min-width: 768px) {
